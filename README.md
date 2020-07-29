@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+## I'm Harsh and I'm a Full Stack Developer.
 
+### Find out about me:
+
+ - [Website] - Visit my online resume to know more about me!
+ - [LinkedIn] - Visit my LinkedIn profile here!
+
+
+[Website]: <https://harshdoshi.in>
+[LinkedIn]: <https://www.linkedin.com/in/hrs-doshi>
 <!--
 **harshdoshi999/harshdoshi999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
